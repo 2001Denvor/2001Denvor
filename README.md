@@ -4,11 +4,11 @@ I’m a BSc IT student passionate about full-stack development. I enjoy building
 
 🛠 Skills
 
-Languages: C#, JavaScript, SQL
+Languages: C#, JavaScript, SQL, Java, Python
 Frontend: React, HTML, CSS
 Backend: .NET Core, Entity Framework, REST API design, JWT authentication
 Databases: SQL Server, MSSQL, SQL
-Tools & Platforms: Git, GitHub, Postman, Linux basics, Cloud deployment basics
+Tools & Platforms: Git, GitHub, Postman, Linux basics, Clickup
 
 💻 Projects
 1. Quotation Generator Application
@@ -16,7 +16,7 @@ Tech Used: .NET Core, SQL Server, React
 
 Description: Full-stack web app with user login, CRUD operations for quotations, and JWT authentication. Demonstrates frontend integration with backend APIs and secure user management.
 
-GitHub: (https://github.com/lakshanjayalath/quotation-generator-front-end.git) and
+GitHub: https://github.com/lakshanjayalath/quotation-generator-front-end.git and https://github.com/lakshanjayalath/quotation-generator-back-end.git
 
 2.Smart Taxi Routing App
 Tech Used: A* algorithm, DFS, BFS algorithm, Block road method, Prolog, Python
