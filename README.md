@@ -23,7 +23,7 @@ Tech Used: A* algorithm, DFS, BFS algorithm, Block road method, Prolog, Python
 
 Description: A full-stack web application that enables users to book taxis, track rides in real-time, and calculate optimal routes. The backend handles ride requests, user management, and fare calculations, while the frontend provides an interactive map interface and real-time ride updates.
 
-GitHub: [Add your repo link]
+GitHub: https://github.com/2001Denvor/Smart-Taxi-App.git
 
 🎓 Certifications & Courses
 
