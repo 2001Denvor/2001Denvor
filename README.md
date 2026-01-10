@@ -46,6 +46,7 @@ Innovating with Google Cloud AI, Trust and security with Google cloud
 Email: sandeepanifer@gmail.com
 
 LinkedIn: www.linkedin.com/in/ganga-fernando-4707052aa
+
 GitHub: https://github.com/2001Denvor
 
 ⚡ Fun Fact
