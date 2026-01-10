@@ -16,37 +16,37 @@ Tech Used: .NET Core, SQL Server, React
 
 Description: Full-stack web app with user login, CRUD operations for quotations, and JWT authentication. Demonstrates frontend integration with backend APIs and secure user management.
 
-GitHub: [Add your repo link]
+GitHub: (https://github.com/lakshanjayalath/quotation-generator-front-end.git) and
 
-2. Client Management API
+2.Smart Taxi Routing App
+Tech Used: A* algorithm, DFS, BFS algorithm, Block road method, Prolog, Python
 
-Tech Used: .NET Core, Entity Framework, SQL Server
-
-Description: RESTful API for managing client data, activity logs, and reports. Highlights backend architecture, database design, and secure endpoints.
-
-GitHub: [Add your repo link]
-
-3. Linux Server Deployment
-
-Tech Used: Linux, Docker, .NET Core
-
-Description: Deployed full-stack projects, configured Linux servers, and managed Dockerized applications. Demonstrates deployment skills and operational knowledge.
+Description: A full-stack web application that enables users to book taxis, track rides in real-time, and calculate optimal routes. The backend handles ride requests, user management, and fare calculations, while the frontend provides an interactive map interface and real-time ride updates.
 
 GitHub: [Add your repo link]
 
 🎓 Certifications & Courses
 
-KodeKloud – Linux Basics
-
-Online Courses: Full-Stack Development with .NET and React
+KodeKloud                  - Linux For Absolute Beginners, AI-Powered DevOps
+Postman                    - API Beginner, API Prototyping Path
+Sololearn                  - C#, Java, JavaScript, SQL, Python, CSS, HTML
+CISCO                      - Exploring Internet of Things with Cisco Packet Tracer, Exploring Networking with Cisco Packet Tracer, Getting Started with Cisco Packet Tracer
+HP LIFE                    -  Professional Networking for Career Growth, Presenting Data, Agile Project Management, Business communication, Effective Leadership, IT for Business success, Introduction to Digital Business Skills 
+ScholarHat                 - ReactJs Foundation
+SLASSCOM                   - Wellbeing and Resilience, Self-awareness and Emotional Intelligence
+Oracle                     - Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+Google                     - Google AI Essentails
+Wolfram U                  - Introduction to cryptography
+UniAthena                  - Basic Microsoft Power BI
+Google Cloud Skills Boost  - Exploring Data Transformation with Google cloud, 
+Innovating with Google Cloud AI, Trust and security with Google cloud
 
 📫 Contact Me
 
-Email: your.email@example.com
+Email: sandeepanifer@gmail.com
 
-LinkedIn: [Your LinkedIn link]
-
-GitHub: [Your GitHub link]
+LinkedIn: www.linkedin.com/in/ganga-fernando-4707052aa
+GitHub: https://github.com/2001Denvor
 
 ⚡ Fun Fact
 
