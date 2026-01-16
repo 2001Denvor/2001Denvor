@@ -16,7 +16,7 @@ Tech Used: .NET Core, SQL Server, React
 
 Description: Full-stack web app with user login, CRUD operations for quotations, and JWT authentication. Demonstrates frontend integration with backend APIs and secure user management.
 
-GitHub: https://github.com/lakshanjayalath/quotation-generator-front-end.git and https://github.com/lakshanjayalath/quotation-generator-back-end.git
+GitHub: https://github.com/lakshanjayalath/quotation-generator-front-end.git and https://github.com/2001Denvor/quotation-generator-back-end.git
 
 2.Smart Taxi Routing App
 Tech Used: A* algorithm, DFS, BFS algorithm, Block road method, Prolog, Python
