@@ -48,19 +48,19 @@ GitHub: https://github.com/2001Denvor/finance-AI-fraud-detection-Databricks.git
 
 ## 🎓 Certifications & Courses
 
-KodeKloud                  - Linux For Absolute Beginners, AI-Powered DevOps
-Postman                    - API Beginner, API Prototyping Path
-Sololearn                  - C#, Java, JavaScript, SQL, Python, CSS, HTML
-CISCO                      - Exploring Internet of Things with Cisco Packet Tracer, Exploring Networking with Cisco Packet Tracer, Getting Started with Cisco Packet Tracer
-HP LIFE                    -  Professional Networking for Career Growth, Presenting Data, Agile Project Management, Business communication, Effective Leadership, IT for Business success, Introduction to Digital Business Skills 
-ScholarHat                 - ReactJs Foundation
-SLASSCOM                   - Wellbeing and Resilience, Self-awareness and Emotional Intelligence
-Oracle                     - Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
-Google                     - Google AI Essentails
-Wolfram U                  - Introduction to cryptography
-UniAthena                  - Basic Microsoft Power BI
-Google Cloud Skills Boost  - Exploring Data Transformation with Google cloud, 
-Innovating with Google Cloud AI, Trust and security with Google cloud
+1. KodeKloud                  - Linux For Absolute Beginners, AI-Powered DevOps
+2. Postman                    - API Beginner, API Prototyping Path
+3. Sololearn                  - C#, Java, JavaScript, SQL, Python, CSS, HTML
+4. CISCO                      - Exploring Internet of Things with Cisco Packet Tracer, Exploring Networking with Cisco Packet Tracer, Getting Started with Cisco Packet Tracer
+5. HP LIFE                    -  Professional Networking for Career Growth, Presenting Data, Agile Project Management, Business communication, Effective Leadership, IT for Business success, Introduction to Digital Business Skills 
+6. ScholarHat                 - ReactJs Foundation
+7. SLASSCOM                   - Wellbeing and Resilience, Self-awareness and Emotional Intelligence
+8. Oracle                     - Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+9. Google                     - Google AI Essentails
+10. Wolfram U                  - Introduction to cryptography
+11. UniAthena                  - Basic Microsoft Power BI
+12. Google Cloud Skills Boost  - Exploring Data Transformation with Google cloud, 
+13. Innovating with Google Cloud AI, Trust and security with Google cloud
 
 ## 📫 Contact Me
 
@@ -70,6 +70,6 @@ LinkedIn: www.linkedin.com/in/ganga-fernando-4707052aa
 
 GitHub: https://github.com/2001Denvor
 
-### ⚡ Fun Fact
+## ⚡ Fun Fact
 
 I enjoy exploring new technologies, building projects end-to-end, and learning how frontend and backend systems work together to create real-world applications.
