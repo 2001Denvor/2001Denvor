@@ -46,7 +46,7 @@ This project implements an end-to-end Finance AI pipeline to detect fraudulent c
 ## Use Case
 Fraud detection in financial transactions using machine learning and big data processing.
 
-## GitHub:
+## GitHub:https://github.com/2001Denvor/finance-AI-fraud-detection-Databricks.git
 
 
 
