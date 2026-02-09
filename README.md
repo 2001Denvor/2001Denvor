@@ -10,7 +10,7 @@ Backend: .NET Core, Entity Framework, REST API design, JWT authentication
 Databases: SQL Server, MSSQL, SQL
 Tools & Platforms: Git, GitHub, Postman, Linux basics, Clickup
 
-💻 Projects
+💻Projects
 1. Quotation Generator Application
 Tech Used: .NET Core, SQL Server, React
 
@@ -25,30 +25,28 @@ Description: A full-stack web application that enables users to book taxis, trac
 
 GitHub: https://github.com/2001Denvor/Smart-Taxi-App.git
 
-# Finance AI Fraud Detection using Databricks
+3.Finance AI Fraud Detection using Databricks
 
-## Overview
+Overview
 This project implements an end-to-end Finance AI pipeline to detect fraudulent credit card transactions using Databricks and PySpark.
 
-## Technologies Used
+Technologies Used
 - Databricks
 - PySpark
 - Spark MLlib
 - SQL
 
-## Workflow
+Workflow
 1. Data ingestion from CSV into Databricks
 2. Data preprocessing and feature engineering
 3. Train-test split
 4. Logistic Regression model training
 5. Model evaluation using Accuracy and AUC
 
-## Use Case
+Use Case
 Fraud detection in financial transactions using machine learning and big data processing.
 
-## GitHub:https://github.com/2001Denvor/finance-AI-fraud-detection-Databricks.git
-
-
+GitHub:https://github.com/2001Denvor/finance-AI-fraud-detection-Databricks.git
 
 🎓 Certifications & Courses
 
