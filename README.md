@@ -1,8 +1,8 @@
-### 👋 Hi, I’m Ganga Fernando
+## 👋 Hi, I’m Ganga Fernando
 
 I’m a BSc IT student passionate about full-stack development. I enjoy building web applications, designing APIs, and managing databases, creating solutions that solve real-world problems from frontend to backend.
 
-### 🛠 Skills
+## 🛠 Skills
 
 Languages: C#, JavaScript, SQL, Java, Python
 Frontend: React, HTML, CSS
@@ -10,52 +10,43 @@ Backend: .NET Core, Entity Framework, REST API design, JWT authentication
 Databases: SQL Server, MSSQL, SQL
 Tools & Platforms: Git, GitHub, Postman, Linux basics, Clickup
 
-### 💻Projects
-## 1. Quotation Generator Application
-# Tech Used: 
-.NET Core, SQL Server, React
+## 💻Projects
+# 1. Quotation Generator Application
+Tech Used: .NET Core, SQL Server, React
 
-# Description:
-Full-stack web app with user login, CRUD operations for quotations, and JWT authentication. Demonstrates frontend integration with backend APIs and secure user management.
+Description:Full-stack web app with user login, CRUD operations for quotations, and JWT authentication. Demonstrates frontend integration with backend APIs and secure user management.
 
-# GitHub: 
-https://github.com/2001Denvor/quotation-generator-front-end.git and https://github.com/2001Denvor/quotation-generator-back-end.git
+GitHub: https://github.com/2001Denvor/quotation-generator-front-end.git and https://github.com/2001Denvor/quotation-generator-back-end.git
 
-## 2.Smart Taxi Routing App
-# Tech Used: 
-A* algorithm, DFS, BFS algorithm, Block road method, Prolog, Python
+# 2.Smart Taxi Routing App
+Tech Used: A* algorithm, DFS, BFS algorithm, Block road method, Prolog, Python
 
-# Description: 
-A full-stack web application that enables users to book taxis, track rides in real-time, and calculate optimal routes. The backend handles ride requests, user management, and fare calculations, while the frontend provides an interactive map interface and real-time ride updates.
+Description: A full-stack web application that enables users to book taxis, track rides in real-time, and calculate optimal routes. The backend handles ride requests, user management, and fare calculations, while the frontend provides an interactive map interface and real-time ride updates.
 
-# GitHub:
-https://github.com/2001Denvor/Smart-Taxi-App.git
+GitHub:https://github.com/2001Denvor/Smart-Taxi-App.git
 
-## 3.Finance AI Fraud Detection using Databricks
+# 3.Finance AI Fraud Detection using Databricks
 
-# Overview
-This project implements an end-to-end Finance AI pipeline to detect fraudulent credit card transactions using Databricks and PySpark.
+ Overview: This project implements an end-to-end Finance AI pipeline to detect fraudulent credit card transactions using Databricks and PySpark.
 
-# Technologies Used
+Technologies Used
 - Databricks
 - PySpark
 - Spark MLlib
 - SQL
 
-# Workflow
+Workflow
 1. Data ingestion from CSV into Databricks
 2. Data preprocessing and feature engineering
 3. Train-test split
 4. Logistic Regression model training
 5. Model evaluation using Accuracy and AUC
 
-# Use Case
-Fraud detection in financial transactions using machine learning and big data processing.
+Use Case: Fraud detection in financial transactions using machine learning and big data processing.
 
-# GitHub:
-https://github.com/2001Denvor/finance-AI-fraud-detection-Databricks.git
+GitHub: https://github.com/2001Denvor/finance-AI-fraud-detection-Databricks.git
 
-### 🎓 Certifications & Courses
+## 🎓 Certifications & Courses
 
 KodeKloud                  - Linux For Absolute Beginners, AI-Powered DevOps
 Postman                    - API Beginner, API Prototyping Path
@@ -71,7 +62,7 @@ UniAthena                  - Basic Microsoft Power BI
 Google Cloud Skills Boost  - Exploring Data Transformation with Google cloud, 
 Innovating with Google Cloud AI, Trust and security with Google cloud
 
-### 📫 Contact Me
+## 📫 Contact Me
 
 Email: sandeepanifer@gmail.com
 
